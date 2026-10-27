@@ -1,0 +1,7 @@
+gradio>=5.0.0
+opencv-python-headless
+numpy
+scikit-learn
+Pillow
+torch
+torchvision
